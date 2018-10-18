@@ -10,7 +10,8 @@
 安装完成后不勾选启动，直接finish：如下图  
 ![不启动](https://i.imgur.com/Vtpjz5I.png)  
 **2、**安装SDK，在D:\Android目录下建立一个SDK文件夹，如：D:\Android\AndroidSDK。再启动AS：![启动](https://i.imgur.com/kOEnWIj.png)  
-进入到下面的界面：  ![界面](https://i.imgur.com/ZK5EUoD.png)  
+进入到下面的界面：  
+![界面](https://i.imgur.com/ZK5EUoD.png)  
 选择箭头的地方，点击configure，再点击SDKMessage。  
 ![](https://i.imgur.com/Lb5vVeZ.png)![路径](https://i.imgur.com/XuG2FUR.png)  
 按上图选择安装路径：本人为：D:\Android\AndroidSDK，进入下一步：
